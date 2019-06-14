@@ -1,6 +1,6 @@
 /*
 
-					Damage tracking
+					Racing system
 				Balkan Underground Evolution, LLC
 	(created by Balkan Underground Evolution Development Team)
 					
